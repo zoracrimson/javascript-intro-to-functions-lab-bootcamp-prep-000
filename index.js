@@ -6,6 +6,4 @@ function whisper(string)  {
   return string.toLowerCase()
 }
 
-function shout(string)  {
-  concole.log(toUpperCase)
-}
+
